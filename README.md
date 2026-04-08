@@ -35,4 +35,3 @@ Program operuje na dwóch głównych osiach zmiennych:
 1. Zakres dat startu (Launch Window).
 2. Czas trwania lotu (Time of Flight).
 
-Wynikiem analizy jest macierz kosztów energetycznych oraz interaktywny wykres konturowy, służący do precyzyjnego planowania harmonogramu misji.
