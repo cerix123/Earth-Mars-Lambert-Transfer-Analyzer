@@ -16,7 +16,7 @@ Rdzeniem obliczeniowym jest rozwiązanie uniwersalnego równania czasu przelotu 
 
 $$\sqrt{\mu} \Delta t = \chi^3 S(z) + A\sqrt{y(z)}$$
 
-W celu wyznaczenia parametrów orbity, program implementuje iteracyjną metodę Newtona-Raphsona, która znajduje wartość zmiennej $z$ minimalizującą różnicę między założonym a obliczonym czasem przelotu. Wykorzystanie funkcji Stumpffa ($C(z)$ i $S(z)$) zapewnia ciągłość matematyczną modelu niezależnie od ekscentryczności orbity.
+W celu wyznaczenia parametrów orbity, program implementuje iteracyjną metodę Newtona-Raphsona, która znajduje wartość zmiennej $z$ minimalizującą różnicę między założonym a obliczonym czasem przelotu. Wykorzystanie funkcji Stumpffa (C(z) i S(z)) zapewnia ciągłość matematyczną modelu niezależnie od ekscentryczności orbity.
 
 ## Performance & Results
 Analizator został poddany testom dla okien startowych w roku 2026. Narzędzie poprawnie zlokalizowało globalne minimum energetyczne, wskazując optymalny moment startu (listopad 2026) przy koszcie $\Delta v$ na poziomie około 3.41 km/s.
