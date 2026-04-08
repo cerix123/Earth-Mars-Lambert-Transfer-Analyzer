@@ -1,7 +1,7 @@
 # Earth-Mars-Lambert-Transfer-Analyzer
 
 ## Overview
-Earth-Mars-Lambert-Transfer-Analyzer to narzędzie inżynieryjne służące do obliczania optymalnych trajektorii międzyplanetarnych przy użyciu metod numerycznych. Projekt implementuje rozwiązanie problemu Lamberta w celu wyznaczenia wymaganej zmiany prędkości ($\Delta v$) dla transferu balistycznego między Ziemią a Marsem. 
+Earth-Mars-Lambert-Transfer-Analyzer to narzędzie służące do obliczania optymalnych trajektorii międzyplanetarnych przy użyciu metod numerycznych. Projekt implementuje rozwiązanie problemu Lamberta w celu wyznaczenia wymaganej zmiany prędkości ($\Delta v$) dla transferu balistycznego między Ziemią a Marsem. 
 
 Głównym celem analizatora jest generowanie wykresów typu Porkchop Plot, które pozwalają na identyfikację okien startowych o najniższym koszcie energetycznym.
 
